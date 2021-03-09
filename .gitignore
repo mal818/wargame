@@ -1,0 +1,5 @@
+MANIFEST.in
+MANIFEST
+./src/wargame/__pycache__/
+.idea/
+RST_TEST.rst
